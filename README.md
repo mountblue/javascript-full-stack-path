@@ -16,7 +16,7 @@
 
 ## HTML and CSS
 
-Start with [Learn to Code HTML and CSS by Shay Howe](https://learn.shayhowe.com/).
+Start with [Learn to Code HTML and CSS by Shay Howe](https://learn.shayhowe.com/)
 
 In particular read the following sections.
 
@@ -59,11 +59,15 @@ In particular read the following sections.
 
 [Introduction to ES6 - Udacity](https://www.udacity.com/course/es6-javascript-improved--ud356)
 
-Projects:
+Projects (only one of the two):
 
-1. **ToDo List in JavaScript**
+**ToDo List in JavaScript**
 
-2. **Memory Game in JavaScript**
+	Implement a todo list with ordering
+
+**Memory Game in JavaScript**
+
+	Create a Memory Game in JavaScript capturing the total number of moves and time taken to complete the game.
 
 **Session**: Recap on Functions, Scope and Callbacks.
 
@@ -131,7 +135,7 @@ Read up on [REST APIs](https://en.wikipedia.org/wiki/Representational_state_tran
 
 Get the [IPL Dataset](https://www.kaggle.com/manasgarg/ipl)
 
-Read the CSV, slice and dice and plot with matplotlib. Use Highcharts for visualisation. MongoDB, Express and Node for the backend.
+	Read the CSV, slice and dice and plot with matplotlib. Use Highcharts for visualisation. MongoDB, Express and Node for the backend.
 
 ## React and Ecosytem
 
@@ -141,9 +145,13 @@ Read the CSV, slice and dice and plot with matplotlib. Use Highcharts for visual
 
 ### React
 
-[Introduction to React](https://egghead.io/courses/start-learning-react)
+[Introduction to React - Techsith](https://www.youtube.com/watch?v=bUTsVY6VUQA&list=PL7pEw9n3GkoVPFsAylfniAT3QQcjWGl5C)
 
 **Session** Recap React
+
+**ToDo List**
+
+	Implement a todo list with ordering which interacts with a backend Web Server in Node or Django with each update.
 
 **NavTree Project in React**
 
@@ -151,15 +159,12 @@ Read the CSV, slice and dice and plot with matplotlib. Use Highcharts for visual
 	
 	Name the project navtree-react-(name)
 
-**ToDo List**
-
-	Implement a todo list with ordering which interacts with a backend Web Server in Node or Django with each update.
 
 ### Redux
 
-[Introduction to Redux](https://egghead.io/courses/getting-started-with-redux)
+[Introduction to Redux - Academind](https://www.youtube.com/watch?v=YmGm-qwbJdc&index=9&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_)
 
-[Introduction to Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+[Introduction to Idiomatic Redux - Egghead](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) (Optional)
 
 **Session** Recap Redux
 
