@@ -16,14 +16,13 @@
 
 ## HTML and CSS
 
-[Introductory Course](https://learn.shayhowe.com/)
+Start with [Learn to Code HTML and CSS by Shay Howe](https://learn.shayhowe.com/).
 
-In particular read the following sections. 
-- Lesson 3 Getting to know CSS
+In particular read the following sections.
 
-- Lesson 4 Opening the Box Model. 
-
-- Lesson 5 Positioning content. 
+* Lesson 3: Getting to know CSS
+* Lesson 4: Opening the Box Model.
+* Lesson 5: Positioning content.
 
 ### Projects:
 
@@ -56,9 +55,9 @@ In particular read the following sections.
 
 ## JavaScript and Ecosytem
 
-[Introduction to JavaScript](https://in.udacity.com/course/intro-to-javascript--ud803)
+[Introduction to JavaScript - Udacity](https://in.udacity.com/course/intro-to-javascript--ud803)
 
-[Introduction to ES6](https://www.udacity.com/course/es6-javascript-improved--ud356)
+[Introduction to ES6 - Udacity](https://www.udacity.com/course/es6-javascript-improved--ud356)
 
 Projects:
 
@@ -74,7 +73,7 @@ Projects:
 
 ### Jquery
 
-[Introduction to Jquery](https://in.udacity.com/course/intro-to-jquery--ud245)
+[Introduction to Jquery - Udacity](https://in.udacity.com/course/intro-to-jquery--ud245)
 
 **NavTree Project in Jquery**
 
