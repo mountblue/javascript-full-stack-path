@@ -138,9 +138,9 @@ Advanced HTML & CSS
 
 ### REST
 
-1. Baics of [REST APIs](https://en.wikipedia.org/wiki/Representational_state_transfer)
+1. Basics of [REST APIs](https://en.wikipedia.org/wiki/Representational_state_transfer)
 2. [RESTful Design](https://blog.philipphauer.de/restful-api-design-best-practices/) - Best practices to use
-3. [Building good APIs](http://conversation.bigbinary.com/) - Using HTTP Response properly 
+3. [Building good APIs](http://conversation.bigbinary.com/) - Using appropriate HTTP Response codes
 
 **Session** on REST
 
