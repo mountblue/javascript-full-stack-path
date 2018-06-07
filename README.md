@@ -78,7 +78,7 @@ Advanced HTML & CSS
 
 **ToDo List in JavaScript**
 
-	Implement a todo list with ordering
+	Implement a todo list with ordering with persistence using localStorage
 
 **Memory Game in JavaScript**
 
@@ -92,49 +92,31 @@ Advanced HTML & CSS
 
 **Session** on JavaScript Environment Setup - JS, Node, NPM. Introduction to JavaScript.
 
---
+### Developer Tools
+
+[Getting Started with Developer Tools](https://developers.google.com/web/tools/chrome-devtools/)
 
 ### Jquery
 
 [Introduction to Jquery - Udacity](https://in.udacity.com/course/intro-to-jquery--ud245)
 
-**NavTree Project in Jquery**
+**ToDo List in Jquery**
 
-	Repository name: navtree-(name) Example navtree-john
+	Implement a todo list with ordering in Jquery
 
+**Session** Recap Jquery
 
-	Build a hierarchical, navigable tree structure using jQuery. The tree structure should be at least 3 levels deep.
-
-	For example:
-	
-	Depth 0
-	
-	-- Depth 1
-	
-	-- Depth 2
-	
-	It should expand and minimize to reveal and hide nested nodes. Do not use an existing library to build the tree structure.
-	
-	Please use the IPL dataset that you had previously used for the Visualisation assignment. An example hierarchy could be
-	
-	Year > Team > Players
-	
-	When the last entity is selected, show a stat relevant to that identity on the page. This can either be a visualisation or a table.
-
-
-**Session**: Recap Jquery.
-
-**Session**: JS Utility functions.
-
-[Introduction to Object Oriented JavaScript](https://classroom.udacity.com/courses/ud711) - Only complete scopes, closures, 'this' keyword and prototype chains.
-
-**Session**: Object and Prototypes.
-
-## MongoDB and Express
+### MongoDB and Express
 
 [Introduction to MongoDB](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
 
 **Session** on databases
+
+**Session** on JS Utility functions
+
+**Full Stack ToDo List**
+
+	Todo List with data storage in backend with Express API and MongoDB as database.
 
 ### REST
 
@@ -152,11 +134,75 @@ Advanced HTML & CSS
 
 **Session** on Mongoose.
 
-## Data Project
+### Data Project
 
 Get the [IPL Dataset](https://www.kaggle.com/manasgarg/ipl)
 
-	Read the CSV, slice and dice and plot with matplotlib. Use Highcharts for visualisation. MongoDB, Express and Node for the backend.
+	In this data assignment you will transform raw data from IPL into graphs that will convey some meaning / analysis. For each part of this assignment you will have 2 parts -
+
+
+	Download both csv files from https://www.kaggle.com/manasgarg/ipl
+
+	Part 1
+
+	Code a javascript program that will transform the raw csv data to a json file which contains only the data necessary and in a format suitable for plotting in the next step and plot with highcharts.
+
+	Generate the following plots ...
+
+	1. Plot the number of matches played per year of all the years in IPL.
+	2. Plot a stacked bar chart of matches won of all teams over all the years of IPL.
+	3. For the year 2016 plot the extra runs conceded per team.
+	4. For the year 2015 plot the top economical bowlers.
+	5. Discuss a "Story" you want to tell with the given data. As with part 1, prepare the JSON file and plot with highcharts.
+
+	Part 2
+
+	Create a Node Web API with MongoDB as the backend. Solve the same above problems by getting data using MongoDB queries.
+
+
+### Unit Testing in JavaScript
+
+[JavaScript Testing - Udacity](https://in.udacity.com/course/javascript-testing--ud549)
+
+**Session** Unit testing
+
+### Time and Space Complexity
+
+[Time Complexity Videos - mycodeschool](https://www.youtube.com/watch?v=8syQKTdgdzc)
+
+Create an account on [Interviewbit](https://www.interviewbit.com) and solve the practice problems in the Time Complexity section.
+
+[Measuring execution time in JavaScript](https://blog.mariusschulz.com/2013/11/22/measuring-execution-times-in-javascript-with-consoletime)
+
+**NavTree Project in Jquery**
+
+	Repository name: navtree-(name) Example navtree-john
+
+
+	Build a hierarchical, navigable tree structure using jQuery. The tree structure should be at least 3 levels deep.
+
+	For example:
+
+	Depth 0
+
+	-- Depth 1
+
+	-- Depth 2
+
+	It should expand and minimize to reveal and hide nested nodes. Do not use an existing library to build the tree structure.
+
+	Please use the IPL dataset that you had previously used for the Visualisation assignment. An example hierarchy could be
+
+	Year > Team > Players
+
+	When the last entity is selected, show a stat relevant to that identity on the page. This can either be a visualisation or a table.
+
+
+### Object Oriented JavaScript
+
+[Introduction to Object Oriented JavaScript](https://classroom.udacity.com/courses/ud711) - Only complete scopes, closures, 'this' keyword and prototype chains.
+
+**Session**: Object and Prototypes.
 
 ## React and Ecosytem
 
@@ -177,9 +223,8 @@ Get the [IPL Dataset](https://www.kaggle.com/manasgarg/ipl)
 **NavTree Project in React**
 
 	Implement the NavTree structure using the React library.
-	
-	Name the project navtree-react-(name)
 
+	Name the project navtree-react-(name)
 
 ### Redux
 
