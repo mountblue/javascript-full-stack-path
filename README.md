@@ -6,23 +6,34 @@
 
 [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)
 
+[Commonly Used Linux Commands](https://www.thegeekstuff.com/2010/11/50-linux-commands/)
+
 ## Version Control Systems
 
 **Session** on Git and Github
 
-[How to use Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)
+[How to use Git and Github - Udacity](https://in.udacity.com/course/how-to-use-git-and-github--ud775)
 
-[Practice Link](https://try.github.io/levels/1/challenges/1)
+[Resources and Practice](https://try.github.io/levels/1/challenges/1) - Practice the **Learn Git branching** section
 
 ## HTML and CSS
 
 Start with [Learn to Code HTML and CSS by Shay Howe](https://learn.shayhowe.com/)
 
-In particular read the following sections.
+In particular read the following sections and complete the exercises.
 
+HTMl & CSS
+
+* Lesson 1: Building your first web page
+* Lesson 2: Getting to know HTML
 * Lesson 3: Getting to know CSS
-* Lesson 4: Opening the Box Model.
-* Lesson 5: Positioning content.
+* Lesson 4: Opening the Box Model
+* Lesson 5: Positioning content
+
+Advanced HTML & CSS
+
+* Lesson 3: Complex Selectors
+* Lesson 4: Responsive Web Design
 
 ### Projects:
 
@@ -38,6 +49,8 @@ In particular read the following sections.
 	In an index.html provide links to both the files.
     * portfolio.html
 	* portfolio-bootstrap.html
+
+#### CSS Reference
 
 [A Visual Reference to CSS](https://cssreference.io/)
 
@@ -55,11 +68,13 @@ In particular read the following sections.
 
 ## JavaScript and Ecosytem
 
+### JavaScript Basics
 [Introduction to JavaScript - Udacity](https://in.udacity.com/course/intro-to-javascript--ud803)
 
+### ECMAScript 6 Basics
 [Introduction to ES6 - Udacity](https://www.udacity.com/course/es6-javascript-improved--ud356)
 
-Projects (only one of the two):
+### Recommended Projects:
 
 **ToDo List in JavaScript**
 
@@ -68,6 +83,10 @@ Projects (only one of the two):
 **Memory Game in JavaScript**
 
 	Create a Memory Game in JavaScript capturing the total number of moves and time taken to complete the game.
+
+**Chess Game in JavaScript** (Advanced)
+
+	Build a 2 player chess game in JavaScript using principles of object oriented programming, game state and game loop.
 
 **Session**: Recap on Functions, Scope and Callbacks.
 
@@ -115,11 +134,13 @@ Projects (only one of the two):
 
 [Introduction to MongoDB](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
 
-**Session** on databases.
+**Session** on databases
 
 ### REST
 
-Read up on [REST APIs](https://en.wikipedia.org/wiki/Representational_state_transfer) and [RESTful Design](https://blog.philipphauer.de/restful-api-design-best-practices/).
+1. Baics of [REST APIs](https://en.wikipedia.org/wiki/Representational_state_transfer)
+2. [RESTful Design](https://blog.philipphauer.de/restful-api-design-best-practices/) - Best practices to use
+3. [Building good APIs](http://conversation.bigbinary.com/) - Using HTTP Response properly 
 
 **Session** on REST
 
@@ -164,7 +185,11 @@ Get the [IPL Dataset](https://www.kaggle.com/manasgarg/ipl)
 
 [Introduction to Redux - Academind](https://www.youtube.com/watch?v=YmGm-qwbJdc&index=9&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_)
 
-[Introduction to Idiomatic Redux - Egghead](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) (Optional)
+Advanced:
+
+[Getting Started with Redux - Egghead](https://egghead.io/courses/getting-started-with-redux)
+
+[Introduction to Idiomatic Redux - Egghead](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
 **Session** Recap Redux
 
