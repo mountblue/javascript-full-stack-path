@@ -35,6 +35,12 @@ Advanced HTML & CSS
 * Lesson 3: Complex Selectors
 * Lesson 4: Responsive Web Design
 
+Resources for Flex and Grid Layouts
+
+[CSS Flex Video](https://www.youtube.com/watch?v=JJSoEo8JSnc)
+
+[CSS Grids](https://www.youtube.com/watch?v=jV8B24rSN5o)
+
 ### Projects:
 
 **Responsive Portfolio Website**
@@ -239,6 +245,16 @@ Advanced:
 **Session** Recap Redux
 
 ## Capstone Project
+
+Deliverables:
+
+1. User Personas - [How to define a User Persona](https://careerfoundry.com/en/blog/ux-design/how-to-define-a-user-persona/)
+2. User Stories - [Writing User Stories](https://www.mountaingoatsoftware.com/agile/user-stories)
+3. Wireframes - [Website Wireframes](https://en.wikipedia.org/wiki/Website_wireframe)
+4. API Contracts
+5. Trello Board for managing and prioritising user stories
+6. Gitlab Repository for managing the code
+7. Deployment link for the project
 
 The final project of the bootcamp.
 
