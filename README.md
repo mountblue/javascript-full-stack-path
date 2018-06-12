@@ -246,6 +246,8 @@ Advanced:
 
 ## Capstone Project
 
+The final project of the bootcamp.
+
 Deliverables:
 
 1. User Personas - [How to define a User Persona](https://careerfoundry.com/en/blog/ux-design/how-to-define-a-user-persona/)
@@ -255,7 +257,5 @@ Deliverables:
 5. Trello Board for managing and prioritising user stories
 6. Gitlab Repository for managing the code
 7. Deployment link for the project
-
-The final project of the bootcamp.
 
 Thanks.
