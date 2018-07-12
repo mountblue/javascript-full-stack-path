@@ -35,26 +35,23 @@ Advanced HTML & CSS
 * Lesson 3: Complex Selectors
 * Lesson 4: Responsive Web Design
 
-Resources for Flex and Grid Layouts
+Resources for Flex and Grid Layouts:
 
 [CSS Flex Video](https://www.youtube.com/watch?v=JJSoEo8JSnc)
 
-[CSS Grids](https://www.youtube.com/watch?v=jV8B24rSN5o)
+[CSS Grid Video](https://www.youtube.com/watch?v=jV8B24rSN5o)
+
+Resources for Web Development for any Topic:
+
+[Mozilla Web Docs](https://developer.mozilla.org/en-US/)
 
 ### Projects:
 
 **Responsive Portfolio Website**
 
-	Build two versions of a portfolio website. With and without the Bootstrap CSS framework. These can be two different files in the same repository. You're required to submit the following:
+	Build your portfolio website using your knowledge of HTML and CSS. The display should work in all resolutions.
 
-	Link to repository. The repository to be named portfolio-(name) example portfolio-john
-
-	Live URL containing links to both versions of the portfolio.
-
-
-	In an index.html provide links to both the files.
-    * portfolio.html
-	* portfolio-bootstrap.html
+	Use your knowledge of responsive media queries, CSS flex and CSS grid for handling multi column layouts.
 
 #### CSS Reference
 
@@ -63,14 +60,6 @@ Resources for Flex and Grid Layouts
 **Themed Ecommerce Website**
 
 	Pick a website or theme of your choice and build it without looking at the source code.
-
-
-	Submit the URL to the Git repository and the URL where the project is deployed. Please name the repository theme-(name) e.g. (theme-john)
-
-
-## Web Architecture Overview
-
-**Session** on Web Architecture Overview
 
 ## JavaScript and Ecosytem
 
@@ -102,15 +91,31 @@ Resources for Flex and Grid Layouts
 
 [Getting Started with Developer Tools](https://developers.google.com/web/tools/chrome-devtools/)
 
-### Jquery
+### Data Project
 
-[Introduction to Jquery - Udacity](https://in.udacity.com/course/intro-to-jquery--ud245)
+Get the [IPL Dataset](https://www.kaggle.com/manasgarg/ipl)
 
-**ToDo List in Jquery**
+	In this data assignment you will transform raw data from IPL into graphs that will convey some meaning / analysis. For each part of this assignment you will have 2 parts -
 
-	Implement a todo list with ordering in Jquery
 
-**Session** Recap Jquery
+	Download both csv files from https://www.kaggle.com/manasgarg/ipl
+
+	Part 1
+
+	Code a javascript program that will transform the raw csv data into a data structure in a format suitable for plotting with highcharts.
+
+	Generate the following plots ...
+
+	1. Plot the number of matches played per year of all the years in IPL.
+	2. Plot a stacked bar chart of matches won of all teams over all the years of IPL.
+	3. For the year 2016 plot the extra runs conceded per team.
+	4. For the year 2015 plot the top economical bowlers.
+	5. Discuss a "Story" you want to tell with the given data. As with part 1, prepare the data structure and plot with highcharts.
+
+	Part 2
+
+	Create a Node Web API with MongoDB as the backend. Solve the same above problems by getting data using MongoDB queries.
+
 
 ### MongoDB and Express
 
@@ -120,9 +125,21 @@ Resources for Flex and Grid Layouts
 
 **Session** on JS Utility functions
 
-**Full Stack ToDo List**
+### Unit Testing in JavaScript
 
-	Todo List with data storage in backend with Express API and MongoDB as database.
+[JavaScript Testing - Udacity](https://in.udacity.com/course/javascript-testing--ud549)
+
+**Session** Unit testing
+
+**Session** Code Retreat
+
+### Time and Space Complexity
+
+[Time Complexity Videos - mycodeschool](https://www.youtube.com/watch?v=8syQKTdgdzc)
+
+Create an account on [Interviewbit](https://www.interviewbit.com) and solve the practice problems in the Time Complexity section.
+
+[Measuring execution time in JavaScript](https://blog.mariusschulz.com/2013/11/22/measuring-execution-times-in-javascript-with-consoletime)
 
 ### REST
 
@@ -140,45 +157,11 @@ Resources for Flex and Grid Layouts
 
 **Session** on Mongoose.
 
-### Data Project
+### Jquery
 
-Get the [IPL Dataset](https://www.kaggle.com/manasgarg/ipl)
+[Introduction to Jquery - Udacity](https://in.udacity.com/course/intro-to-jquery--ud245)
 
-	In this data assignment you will transform raw data from IPL into graphs that will convey some meaning / analysis. For each part of this assignment you will have 2 parts -
-
-
-	Download both csv files from https://www.kaggle.com/manasgarg/ipl
-
-	Part 1
-
-	Code a javascript program that will transform the raw csv data to a json file which contains only the data necessary and in a format suitable for plotting in the next step and plot with highcharts.
-
-	Generate the following plots ...
-
-	1. Plot the number of matches played per year of all the years in IPL.
-	2. Plot a stacked bar chart of matches won of all teams over all the years of IPL.
-	3. For the year 2016 plot the extra runs conceded per team.
-	4. For the year 2015 plot the top economical bowlers.
-	5. Discuss a "Story" you want to tell with the given data. As with part 1, prepare the JSON file and plot with highcharts.
-
-	Part 2
-
-	Create a Node Web API with MongoDB as the backend. Solve the same above problems by getting data using MongoDB queries.
-
-
-### Unit Testing in JavaScript
-
-[JavaScript Testing - Udacity](https://in.udacity.com/course/javascript-testing--ud549)
-
-**Session** Unit testing
-
-### Time and Space Complexity
-
-[Time Complexity Videos - mycodeschool](https://www.youtube.com/watch?v=8syQKTdgdzc)
-
-Create an account on [Interviewbit](https://www.interviewbit.com) and solve the practice problems in the Time Complexity section.
-
-[Measuring execution time in JavaScript](https://blog.mariusschulz.com/2013/11/22/measuring-execution-times-in-javascript-with-consoletime)
+**Session** Recap Jquery
 
 **NavTree Project in Jquery**
 
@@ -210,6 +193,10 @@ Create an account on [Interviewbit](https://www.interviewbit.com) and solve the 
 
 **Session**: Object and Prototypes.
 
+## Web Architecture Overview
+
+**Session** on Web Architecture Overview
+
 ## React and Ecosytem
 
 ### Build Tools
@@ -224,13 +211,11 @@ Create an account on [Interviewbit](https://www.interviewbit.com) and solve the 
 
 **ToDo List**
 
-	Implement a todo list with ordering which interacts with a backend Web Server in Node or Django with each update.
+	Implement a todo list with ordering which interacts with a backend web server in Node or Django with each update.
 
 **NavTree Project in React**
 
-	Implement the NavTree structure using the React library.
-
-	Name the project navtree-react-(name)
+	Implement the navigation tree structure using the React library.
 
 ### Redux
 
