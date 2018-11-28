@@ -135,7 +135,11 @@ Get the [IPL Dataset](https://www.kaggle.com/manasgarg/ipl)
 
 ### Time and Space Complexity
 
-[Time Complexity Videos - mycodeschool](https://www.youtube.com/watch?v=8syQKTdgdzc)
+[Time Complexity Summary](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn) (30 minutes) on mycodeschool - 4 videos
+
+[Complexity for recursive programs](https://www.youtube.com/watch?v=ncpTxqK35PI) (8 minutes) on mycodeschool
+
+(Optional) Additionally you can refer to the Algorithms and Data Structures course by Ravindrababu Ravula on youtube (First 6 videos cover ): [https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0](https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
 
 Create an account on [Interviewbit](https://www.interviewbit.com) and solve the practice problems in the Time Complexity section.
 
