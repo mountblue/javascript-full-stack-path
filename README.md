@@ -12,9 +12,15 @@
 
 **Session** on Git and Github
 
-[How to use Git and Github - Udacity](https://in.udacity.com/course/how-to-use-git-and-github--ud775)
+[Version Control with Git - Udacity Video Course](https://in.udacity.com/course/version-control-with-git--ud123)
 
-[Resources and Practice](https://try.github.io/levels/1/challenges/1) - Practice the **Learn Git branching** section
+[GitHub & Collaboration - Udacity Video Course](https://in.udacity.com/course/github-collaboration--ud456)
+
+[Learn enough Git to be dangerous](https://www.learnenough.com/git-tutorial)
+
+[Resources and Practice](https://learngitbranching.js.org/) - Practice the **Learn Git branching** section
+
+[Gamified Tutorial](https://www.katacoda.com/courses/git) - Learn the most common practices in the modern day Git Workflow.
 
 ## HTML and CSS
 
