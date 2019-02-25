@@ -53,11 +53,17 @@ Resources for Web Development for any Topic:
 
 ### Projects:
 
-**Responsive Portfolio Website**
+**Responsive Website**
 
-	Build your portfolio website using your knowledge of HTML and CSS. The display should work in all resolutions.
+Check out the following [wireframes](https://drive.google.com/drive/u/1/folders/19q7wUU6kAJfe0lFuejMKp1BcCy6am2XM).
+
+	Use your knowledge of HTML and CSS. The display should work in all resolutions.
 
 	Use your knowledge of responsive media queries, CSS flex and CSS grid for handling multi column layouts.
+
+**Responsive Portfolio Website**
+
+	Build your portfolio website using your knowledge of HTML and CSS.
 
 #### CSS Reference
 
