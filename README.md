@@ -1,4 +1,4 @@
-# Ruby on Rails Full Stack Path
+# JavaScript Full Stack Path
 
 Sequence of topics (tentative):
 
