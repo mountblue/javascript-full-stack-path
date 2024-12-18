@@ -100,8 +100,8 @@ Create a Codepen collection with solutions and submit the collection URL
 
 ## 12. Project I: Green Tree Initiative
 
-* Project Adobe XD wireframes - [http://bit.do/mbngo](http://bit.do/mbngo)
-* Project assets - [http://bit.do/mbngo-assets](http://bit.do/mbngo-assets)
+* Project Adobe XD wireframes - [Wireframes](https://xd.adobe.com/spec/a75faa97-2d9f-401c-6140-8fac4a6601aa-d16e/grid/)
+* Project assets - [Assets](https://drive.google.com/drive/folders/1raP7YpOF4knQnX7UWOYJYoTU4KSGJAyy?usp=share_link)
 
 Build the two pages - home page and donation page.
 
